@@ -5,5 +5,3 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakesproink&layout=compact&theme=github_dark&border_radius=20&exclude_repo=spil-site-frontend&hide=html,css&hide_border=true" height="180" alt="languages graph" />
 </div>
-
-![profile views](https://komarev.com/ghpvc/?username=fakesproink&color=blue)
