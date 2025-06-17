@@ -1,4 +1,4 @@
-### Hi there 👋
+### hi
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fakesproink&show_icons=true&theme=github_dark&hide_border=true&border_radius=20&include_all_commits=true&count_private=false" height="180" alt="stats graph" />
